@@ -222,8 +222,13 @@ position: relative;
  .contact-form{
    margin-top: 1rem;
  }
+ .contact-btn{
+   width: 8rem;
+   text-align: center;
+ }
  .contact-form input{
      height: 3rem;
+     padding-left: 1rem;
      margin-bottom: 1rem;
      width: 99%;
      font-size: 1.2rem;
